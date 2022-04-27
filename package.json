@@ -1,0 +1,19 @@
+{
+	"name": "automation",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": ""
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"appium": "^1.22.3",
+		"axios": "^0.24.0",
+		"chromedriver": "*",
+		"nightwatch": "^1.7.11",
+		"nightwatch-html-reporter": "^2.0.6"
+	},
+	"devDependencies": {}
+}

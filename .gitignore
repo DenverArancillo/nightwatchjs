@@ -1,0 +1,5 @@
+/node_modules/
+/nightwatch/reports/
+/nightwatch/screenshots/
+chromedriver.log
+selenium-server.log
